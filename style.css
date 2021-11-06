@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(51, 41, 41);
+}
+h1{
+    color: bisque;
+    font-size: larger;
+}
+p{
+    color: chartreuse;
+    font-size: small;
+}
+h2{
+    font-size: xx-small;
+}
